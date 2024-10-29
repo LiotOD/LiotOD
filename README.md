@@ -1,6 +1,6 @@
 # Bonjour, c’est Lionel 👋
 
-Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets personnels et professionnels pour développer mes compétences en **Data Science**, **IA**, **SQL**, **Webmapping**, **SIG**, **Python**, **Création de Données**.
+Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets personnels et professionnels pour développer mes compétences en  **SIG**, **Création de Données**, **SQL**, **Webmapping**, **Python**, **Data Science**, **IA**.
 
 ---
 
