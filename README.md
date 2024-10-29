@@ -27,7 +27,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **3- SQL** 
 - [x] **4- FME** 
 - [x] **5- WebGIS avec les outils ESRI**
-- [x] **6- L'éssentiel de l'administration Réseaux**[]
+- [x] **6- L'éssentiel de l'administration Réseaux**
 - [x] **7- Administration d'un SIG d'entreprise**
 - [x] **8- Git et Github**
 - [ ] **9- HTML, CSS, JS** (*en cours de maitrise approfondie - 2024*)
