@@ -30,8 +30,8 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **6- L'éssentiel de l'administration Réseaux**[]
 - [x] **7- Administration d'un SIG d'entreprise**
 - [x] **8- Git et Github**
-- [ ] **9- HTML, CSS, JS** (en cours de maitrise approfondie - 2024)
-- [ ] **10- WebGIS Open Source** (en cours de maitrise approfondie - 2024)
+- [ ] **9- HTML, CSS, JS** (*en cours de maitrise approfondie - 2024*)
+- [ ] **10- WebGIS Open Source** (*en cours de maitrise approfondie - 2024*)
 - [ ] **11- Python pour le SIG**
 - [ ] **12- L'éssentiel des LLM et de l'IA**
 - [ ] **13- GeoIA**
