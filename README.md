@@ -27,11 +27,12 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **3- Télédétection** : *Les données raster, géoréférencement, tuilage, le traitement des raster pour générer des dérivés: MNT, Pente, Altitude, Température, etc.*
 - [x] **4- SQL Basique** : *Bases relationnelles, SGBD, Objets d'une BDD, syntaxe de base SQL, fonctions basiques, filtrage, création de'objets, modification d'objets, etc. *
 - [x] **5- PostGIS Basique** : *Création de l'extension, connexion à logiciel SIG, import de shape, ajout d'un champ geom, types de données géospatiales, requêtes basiques postgis, etc.*
-- [ ] **6- SQL Intermédiaire** : *Opérations sur les objets (ajout, modification, suppression), vues, aggrégats, fonctions intermédiaires (date, maths, string), Jointures, Index attributaires, etc.*
-- [ ] **5- PostGIS Intermédiaire** : 
-- [ ] **5- SQL Avancé**
-- [ ] **5- PostGIS Avancé**
-- [ ] **5- Administration d'une Base de données**
+- [x] **6- SQL Intermédiaire** : *Opérations sur les objets (ajout, modification, suppression), vues, aggrégats, fusion d'objets, fonctions intermédiaires (date, maths, string), Jointures, Index attributaires,  etc.*
+- [x] **7- PostGIS Intermédiaire** : *Sélection par attributs et par localisation, jointures spatiales, index spatiaux, géotraitements, opérations sur les SCR, analyse raster (ajout, fusion, découpage, extraction, création), calculs raster (ndvi, ndwi, savi), etc.*
+- [ ] **8- SQL Avancé** : *Sous-requêtes, Triggers, CTE, Window, Requêtes imbriquées, Transactions, Gestion des valeurs nulles, Opérations conditionnelles, CAST, Opérations massives, création de procédures stockées, etc.*
+- [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, etc.*
+- [ ] **10- Administration d'une BDD SIG d'entreprise : les fondamentaux**
+- [ ] **11- Administration d'une BDD SIG d'entreprise : la maitrise**
 - [x] **6- FME Basique**
 - [x] **7- FME Intermédiaire**
 - [ ] **8- FME Avancé**
