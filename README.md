@@ -29,11 +29,11 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **5- PostGIS Basique** : *Création de l'extension, connexion à logiciel SIG, import de shape, ajout d'un champ geom, types de données géospatiales, requêtes basiques postgis, etc.*
 - [x] **6- SQL Intermédiaire** : *Opérations sur les objets (ajout, modification, suppression), vues, aggrégats, fusion d'objets, fonctions intermédiaires (date, maths, string), Jointures, Index attributaires,  etc.*
 - [x] **7- PostGIS Intermédiaire** : *Sélection par attributs et par localisation, jointures spatiales, index spatiaux, géotraitements, opérations sur les SCR, analyse raster (ajout, fusion, découpage, extraction, création), calculs raster (ndvi, ndwi, savi), etc.*
-- [ ] **8- SQL Avancé** : *Sous-requêtes, Triggers, CTE, Window, Requêtes imbriquées, Transactions, Gestion des valeurs nulles, Opérations conditionnelles, CAST, Opérations massives, création de procédures stockées, etc.*
-- [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, etc.*
+- [ ] **8- SQL Avancé** : *Sous-requêtes, Triggers, CTE, Window, Requêtes imbriquées, Transactions, Gestion des valeurs nulles, Opérations conditionnelles, CAST, Opérations massives, création de procédures stockées, etc.* (learning - 2024)
+- [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, etc.* (learning - 2024)
 - [x] **10- Administration d'une BDD SIG d'entreprise : les fondamentaux** : 
 - [x] **11- Administration d'une BDD SIG d'entreprise : la maitrise** : 
-- [ ] **11- Administration d'une BDD SIG d'entreprise : l'expertise** :     
+- [ ] **12- Administration d'une BDD SIG d'entreprise : l'expertise** :     
 - [x] **6- FME Basique**
 - [x] **7- FME Intermédiaire**
 - [ ] **8- FME Avancé**
@@ -41,7 +41,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **10- L'éssentiel de l'administration Réseaux**
 - [x] **11- Administration d'un SIG d'entreprise**
 - [x] **12- Git et Github**
-- [ ] **13- HTML, CSS, JS : Maîtrise des bases** (*en cours de maitrise approfondie - 2024*)
+- [ ] **13- HTML, CSS, JS : Maîtrise des bases** 
 - [ ] **14- WebGIS Open Source** (*en cours de maitrise approfondie - 2024*)
 - [ ] **15- Python pour le SIG**
 - [ ] **16- L'éssentiel des LLM et de l'IA**
