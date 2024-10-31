@@ -6,7 +6,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 
 ### 🌍 À propos de moi
 
-- **GIS Lover** en deux mots. 
+**GIS Lover** en deux mots. 
 
 ---
 
@@ -31,8 +31,9 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **7- PostGIS Intermédiaire** : *Sélection par attributs et par localisation, jointures spatiales, index spatiaux, géotraitements, opérations sur les SCR, analyse raster (ajout, fusion, découpage, extraction, création), calculs raster (ndvi, ndwi, savi), etc.*
 - [ ] **8- SQL Avancé** : *Sous-requêtes, Triggers, CTE, Window, Requêtes imbriquées, Transactions, Gestion des valeurs nulles, Opérations conditionnelles, CAST, Opérations massives, création de procédures stockées, etc.*
 - [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, etc.*
-- [ ] **10- Administration d'une BDD SIG d'entreprise : les fondamentaux**
-- [ ] **11- Administration d'une BDD SIG d'entreprise : la maitrise**
+- [x] **10- Administration d'une BDD SIG d'entreprise : les fondamentaux** : 
+- [x] **11- Administration d'une BDD SIG d'entreprise : la maitrise** : 
+- [ ] **11- Administration d'une BDD SIG d'entreprise : l'expertise** :     
 - [x] **6- FME Basique**
 - [x] **7- FME Intermédiaire**
 - [ ] **8- FME Avancé**
