@@ -31,23 +31,23 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **6- SQL Intermédiaire** : *Opérations sur les objets (ajout, modification, suppression), vues, aggrégats, fusion d'objets, fonctions intermédiaires (date, maths, string), Jointures, Index attributaires,  etc.*   
 - [x] **7- PostGIS Intermédiaire** : *Sélection par attributs et par localisation, jointures spatiales, index spatiaux, géotraitements, opérations sur les SCR, analyse raster (ajout, fusion, découpage, extraction, création), calculs raster (ndvi, ndwi, savi), etc.*   
 - [ ] **8- SQL Avancé** : *Sous-requêtes, Triggers, CTE, Window, Requêtes imbriquées, Transactions, Gestion des valeurs nulles, Opérations conditionnelles, CAST, Opérations massives, création de procédures stockées, etc.* (learning - 2024)   
-- [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, etc.* (learning - 2024)
+- [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, 3D, etc.* (learning - 2024)
 - [x] **10- Administration d'une BDD SIG d'entreprise : les fondamentaux** : *Introduction au BDA, tâches du DBA, Types de BDD, gestion des types d'objets, Stockage des BDD, SGDB, Config et Install, etc.* 
-- [x] **11- Administration d'une BDD SIG d'entreprise : la maitrise basique** : *Gestion des rôles, Sauvegarde et restauration, politiques de sécurité, audit d'activité, cryptage de données, User management, indexation,  etc.*
-- [ ] **12- Administration d'une BDD SIG d'entreprise : la maitrise avancée** : *Optimisation des BDD et des requêtes, monitoring,Troubleshooting, Automatisation, plan de sauvegarde, Coûts, protocoles de communication, gestion des connexion, transactions, etc.*
-- [ ] **13- Administration d'une BDD SIG d'entreprise : l'expertise** : *Planificateur de requête, PSQL, Architecture mémoire et processus avancée, Réplication, FinOps, Protocoles de connexion, etc.*
-- [x] **6- FME Basique**
-- [x] **7- FME Intermédiaire**
-- [ ] **8- FME Avancé**
-- [x] **9- WebGIS avec les outils ESRI**
-- [x] **10- L'éssentiel de l'administration Réseaux**
-- [x] **11- Administration d'un SIG d'entreprise**
-- [x] **12- Git et Github**
-- [ ] **13- HTML, CSS, JS : Maîtrise des bases** 
-- [ ] **14- WebGIS Open Source** (*en cours de maitrise approfondie - 2024*)
-- [ ] **15- Python pour le SIG**
-- [ ] **16- L'éssentiel des LLM et de l'IA**
-- [ ] **17- GeoIA**
+- [x] **11- Administration d'une BDD SIG d'entreprise : la maitrise basique** : *Gestion des rôles, Sauvegarde et restauration, audit, cryptage de données, User management, indexation, Sécurisation basique (au niveau de la BDD), etc.*
+- [ ] **12- Administration d'une BDD SIG d'entreprise : la maitrise avancée** : *Optimisation des BDD et des requêtes, monitoring,Troubleshooting, Automatisation, plan de sauvegarde, Coûts des requêtes, protocoles de communication, gestion des connexion, transactions, Indicateurs de performance, Sécurisation avancée (au niveau de la BDD),etc.*
+- [ ] **13- Administration d'une BDD SIG d'entreprise : l'expertise** : *Planificateur de requête, PSQL, Architecture mémoire et processus avancée, Réplication, FinOps, Protocoles de connexion, Maintenance, mises à jour, etc.*
+- [x] **- FME Basique**
+- [x] **- FME Intermédiaire**
+- [ ] **- FME Avancé**
+- [x] **- WebGIS avec les outils ESRI**
+- [ ] **- Administration Réseaux : les bases**
+- [ ] **- Administration d'un SIG d'entreprise**
+- [x] **- Git et Github**
+- [ ] **- HTML, CSS, JS : Maîtrise des bases** 
+- [ ] **- WebGIS Open Source** (*en cours de maitrise approfondie - 2024*)
+- [ ] **- Python pour le SIG**
+- [ ] **- L'éssentiel des LLM et de l'IA**
+- [ ] **- GeoIA**
   
 
 ### 🛠️ Compétences techniques
