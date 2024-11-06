@@ -20,7 +20,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - **🌐 Site Internet** : mon site internet (https://ltodome.com/)
 
 ---
-### Ma roadmap SIG : SIG, BDD, 
+### Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev,  
 
 - [x] **1- Cartographie** : *Données vectorielles, formats de données vectorielles, Grands principes en SIG, Sémiologie graphique, Conception de cartes, Edition, etc.*     
 - [x] **2- Analyse Spatiale** : *Sélections, filtres, géotraitements, AHP, modeleurs graphiques, Jointures, Topologie, Statistiques, Proximité, Transformation, etc.*    
@@ -33,22 +33,22 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, 3D, etc.* (learning - 2024)
 - [x] **10- Administration d'une BDD SIG d'entreprise : les fondamentaux** : *Introduction au BDA, tâches du DBA, Types de BDD, gestion des types d'objets, Stockage des BDD, SGDB, Config et Install, etc.* 
 - [x] **11- Administration d'une BDD SIG d'entreprise : la maitrise basique** : *Gestion des rôles, Sauvegarde et restauration, audit, cryptage de données, User management, indexation, Sécurisation basique (au niveau de la BDD), etc.*
-- [ ] **12- Administration d'une BDD SIG d'entreprise : la maitrise avancée** : *Optimisation des BDD et des requêtes, monitoring,Troubleshooting, Automatisation, plan de sauvegarde, Coûts des requêtes, protocoles de communication, gestion des connexion, transactions, Indicateurs de performance, Sécurisation avancée (au niveau de la BDD),etc.* (learning - 2024)
-- [ ] **13- Administration d'une BDD SIG d'entreprise : l'expertise** : *Planificateur de requête, PSQL, Architecture mémoire et processus avancée, Réplication, FinOps, Protocoles de connexion, Sécurisation avancée (au niveau de l'OS), Maintenance, mises à jour, Veille technologique, etc.*  (learning - 2024)
+- [ ] **12- Administration d'une BDD SIG d'entreprise : la maitrise avancée** : *Optimisation des BDD et des requêtes, monitoring,Troubleshooting, Automatisation, plan de sauvegarde, Coûts des requêtes, protocoles de communication, gestion des connexion, transactions, Indicateurs de performance, Sécurisation avancée 1 (au niveau de la BDD),etc.* (learning - 2024)
+- [ ] **13- Administration d'une BDD SIG d'entreprise : l'expertise** : *Planificateur de requête, PSQL, Architecture mémoire et processus avancée, Réplication, FinOps, Protocoles de connexion, Sécurisation avancée 2 (au niveau de l'OS), Maintenance, mises à jour, Veille technologique, etc.*  (learning - 2024)
 - [x] **14- FME Basique** : *Installation avec licence fixe et flottante, Terminologie de FME, Création de workbench, readers, writers, transformers basique, mise à jour de données, Documenter un script, Analyse spatiale Vecteur, Sécuriser un script, etc.* 
-- [x] **15- FME Intermédiaire** : *Workspace runner, SQL dans fme, Optimisation des scripts, Valeurs adjacentes, Valeurs conditionnelles, Lecture et écriture dynamique, Analyse spatiale Raster  APis et Flux WFS/WMS, Basique de FME Flow, Création de cartes et Atlas, Transformers personnalisés, Certification FME Form, etc.*
+- [x] **15- FME Intermédiaire** : *Workspace runner, SQL dans fme, Optimisation des scripts, Valeurs adjacentes, Valeurs conditionnelles, Lecture et écriture dynamique, Analyse spatiale Raster, APis et Flux WFS/WMS, Les bases de FME Flow, Création de cartes et Atlas, Transformers personnalisés, Certification FME Form, Debuggage, etc.*
 - [ ] **16- FME Avancé** : *Librairie de transformers personnalisés, Python dans FME, Publication des workbenchs, Création d'application web avec fme flow, Automatisation et planification de l'éxecution de Scripts, Notification via un SMTP, Authentification avec un AD ou LDAP, Certification FME flow, Veille technologique, etc.*  (learning - 2024)
 - [x] **17- HTML, CSS : Maîtrise des bases**  : *Structure de page web, Ajouter du style à la page html, Création d'une première page web*
-- [x] **18- WebGIS avec les outils ESRI (no/low code)** : *Création d'application avec WebApp Builder, Experience Builder, Dashboard, ArcGIS Hub/Site, etc.*
+- [x] **18- WebSIG avec les outils ESRI (no/low code)** : *Création d'application avec WebApp Builder, Experience Builder, Dashboard, ArcGIS Hub/Site, etc.*
 - [x] **19- Git et Github** : *Apprendre le versionning avec Github, Effectuer les opérations principales sur Github, Apprendre à collaborer sur des projets Github, Créer des pages web avec github --> (https://github.com/skills)*
-- [ ] **- Architecture d'un SIG d'entreprise**  : *Apprendre le versionning avec Github, Effectuer les opérations principales sur Github, Apprendre à collaborer sur des projets Github, Créer des pages web avec github --> (https://github.com/skills)*
-- [ ] **- Administration Réseaux : les bases**
-- [ ] **- Administration d'un SIG d'entreprise**
-- [ ] **- Collecte de données géographiques**
-- [ ] **- Nettoyage et traitement de données géographiques**
-- [ ] **- WebGIS avec les librairies JS**
+- [x] **20- Collecte de données géographiques** : *Utilisation du GPS, collecte avec des Appli web et mobile (Kobo, Qfield, 123Survey, FieldMaps)*
+- [x] **21- Nettoyage et traitement de données géographiques** : *Vérification de cohérence de données, traitement de données avec les outils SIG*
+- [ ] **22- Architecture d'un SIG d'entreprise** : *Choix des outils SIG, Stockage de données, Dimensionnement des machines, Architecture des serveurs, Quels clients finaux, Organigramme fonctionnel des outils, Définir les flux de données, politique de sécurité, gestion des acteurs, données externes, choix des garants de données, Savoir écrire un cahier de charge, Savoir rédiger un livre blanc du SIG pour l'entreprise, Définir les données critiques, Définir une charte de données, Comprendre le fonctionnement de ArcGIS enterprise, etc.*
+- [ ] **23- Administration Réseaux : les bases** : **
+- [ ] **24- Administration d'un SIG d'entreprise** : *Apprendre la pédagogie envers les utilisateurs, Administrer les BDD, Mettre en place une politique de sauvegarde et restauration, Gestion des utilisateurs, Débuggage des servers, Définir des Indicateurs de performance pertinents et les suivre, Mise en place d'un monitoring des composants du SIG, Mise en place d'un plan de sauvegarde du Système, Gestion des incidents, Mise à jour des composants, Test de cybersécurité du Système, Créer un CDC sur les bases en choisissant les infos pertinentes à garder, Former les utilisateurs, Automatiser les tâches récurrentes, Documenter les procédures et flux de travail, Mettre en place une politique de métadonnées, Assurer la qualité des données, etc.*
+- [ ] **- JS : Maîtrise des bases utiles pour le WebSIG** : *Structures de syntax JavaScript, boucles, fonctions, tableaux, Document Object Model, comprendre les format JSON et GEOJSON, récupérer les informations d'un JSON/Geojson*
+- [ ] **- WebGIS avec les librairies JS** 
 - [x] **- Git et Github**
-- [ ] **- JS : Maîtrise des bases** 
 - [ ] **- WebGIS Open Source** (*en cours de maitrise approfondie - 2024*)
 - [ ] **- Python pour le SIG**
 - [ ] **- L'éssentiel des LLM et de l'IA**
@@ -58,7 +58,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 ### 🛠️ Compétences techniques
 
 - **Langages informatiques** : SQL, JavaScript, Html, CSS 
-- **Outils** : PostgreSQL, SQL Server, ESRI (ArcGIS Pro, Enterprise, API JS), QGIS, Geoserver, Mviewer Openlayers
+- **Outils** : PostgreSQL, SQL Server, ESRI (ArcGIS Pro, Enterprise, API JS), QGIS, Geoserver, Mviewer, Openlayers
 
 ---
 
