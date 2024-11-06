@@ -23,7 +23,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 
 ---
 - [x] **1- Cartographie** : *Données vectorielles, formats de données vectorielles, Grands principes en SIG, Sémiologie graphique, Conception de cartes, Edition, etc.*     
-- [x] **2- Analyse Spatiale** : *Sélections, filtres, géotraitements, AHP, modeleurs graphiques, Jointures, Topologie, Statistiques, Proximité, Transformation, etc.*    
+- [x] **2- Analyse Spatiale** : *Sélections, filtres, géotraitements, AHP, modeleurs graphiques, Jointures, Topologie, Statistiques, Proximité, Transformation, géocodage, reverse geocode, etc.*    
 - [x] **3- Télédétection** : *Les données raster, géoréférencement, tuilage, le traitement des raster pour générer des dérivés: MNT, Pente, Altitude, Température, etc.*
 ---
 - [x] **4- SQL Basique** : *Bases relationnelles, SGBD, Objets d'une BDD, syntaxe de base SQL, fonctions basiques, filtrage, création de'objets, modification d'objets, etc.* 
@@ -44,7 +44,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 ---
 - [x] **17- HTML, CSS : Maîtrise des bases**  : *Structure de page web, Ajouter du style à la page html, Création d'une première page web*
 - [x] **18- WebSIG avec les outils ESRI (no/low code)** : *Création d'application avec WebApp Builder, Experience Builder, Dashboard, ArcGIS Hub/Site, etc.*
-- [x] **19- Git et Github** : *Apprendre le versionning avec Github, Effectuer les opérations principales sur Github, Apprendre à collaborer sur des projets Github, Créer des pages web avec github --> (https://github.com/skills)*
+- [x] **19- Git et Github** : *Apprendre le versionning avec Github, Effectuer les opérations principales sur Github, Apprendre à collaborer sur des projets Github, Créer des pages web avec github --> [Cours Github](https://github.com/skills)*
 ---
 - [x] **20- Collecte de données géographiques** : *Utilisation du GPS, collecte avec des Appli web et mobile (Kobo, Qfield, 123Survey, FieldMaps)*
 - [x] **21- Nettoyage et traitement de données géographiques** : *Vérification de cohérence de données, traitement de données avec les outils SIG*
@@ -52,11 +52,13 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **23- Administration d'un SIG d'entreprise** : *Apprendre la pédagogie envers les utilisateurs, Administrer les BDD, Mettre en place une politique de sauvegarde et restauration, Gestion des utilisateurs, Débuggage des servers, Définir des Indicateurs de performance pertinents et les suivre, Mise en place d'un monitoring des composants du SIG, Mise en place d'un plan de sauvegarde du Système, Gestion des incidents, Mise à jour des composants, Test de cybersécurité du Système, Créer un CDC sur les bases en choisissant les infos pertinentes à garder, Former les utilisateurs, Automatiser les tâches récurrentes, Documenter les procédures et flux de travail, Mettre en place une politique de métadonnées, Assurer la qualité des données, Ouverture de flux, Travail d'équipe avec DSI, Créer un pool applicatif et gérer les applications, etc.*
 ---
 - [ ] **24- Administration Réseaux : les bases** : *Comprendre le fonctionnement d'un réseau, terminologie en réseaux, Principes de fonctionnement d’un pare-feu, règles de filtrage, concepts d’ouverture et fermeture de ports, Ouverture de flux entre deux machines, ouverture de flux entre plusieurs machines, etc.*
-- [ ] **25- Administration Réseaux : l'essentiel pour un SIG** : *Apprendre l'ouverture de ports spécifiques pour les composants du SIG (BDD, Serveur SIG, Applicatifs), Vérifier l'ouverture des ports avec nmap et netstat, Génération de clés SSH, configuration des connexions sécurisées,  etc.*
+- [ ] **25- Administration Réseaux : l'essentiel pour un SIG** : *Apprendre l'ouverture de ports spécifiques pour les composants du SIG (BDD, Serveur SIG, Applicatifs), Vérifier l'ouverture des ports avec nmap et netstat, Génération de clés SSH, configuration des connexions sécurisées, Utilisation de ping, traceroute pour tester la connectivité, Configuration et analyse des logs réseau (syslog, journalctl), outils pour les logs des bases de données SIG, réaliser des tests de vulnérabilité sur les composants du SIG, etc.*
 ---
-- [ ] **- JS : Maîtrise des bases utiles pour le WebSIG** : *Structures de syntax JavaScript, boucles, fonctions, tableaux, Document Object Model, comprendre les format JSON et GEOJSON, récupérer les informations d'un JSON/Geojson*
-- [ ] **- WebGIS avec les librairies JS** 
-- [x] **- Git et Github**
+- [x] **-26 JS : Maîtrise des bases utiles pour le WebSIG** : *Structures de syntaxes JavaScript, boucles, fonctions, tableaux, Document Object Model, comprendre les format JSON et GEOJSON, récupérer les informations d'un JSON/Geojson*
+- [x] **- WebGIS basique avec les librairies JS (Ol, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Créer une carte de base avec html, css et une librairie JS, Ajouter des données, styler les données, ajouter une popup, ajouter des fonctionnalités basiques (zoom, recherche, échelle, source), ajouter une couche wms/wmts/wfs*
+- [ ] **- WebGIS niveau intermédiaire avec les librairies JS (Ol, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter données raster et 3D, faire des cartes choroplètes, Ajouter les fonctionnalités avancées (filtre, géocodage, reverse geocodage, position GPS, adress IP), Créer une liste d'objets liés à une carte avec un affichage dynamique, ajouter une légende, ajouter une légende dynamique, ajouter un modèle 3D,  ajouter des données en temps réel, ajouter une animation, ajouter un cluster, ajouter une heatmap, créer des animations temporelles*
+- [ ] **- WebGIS niveau avancé avec les librairies JS (Ol, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter un enregistrement*
+
 - [ ] **- WebGIS Open Source** (*en cours de maitrise approfondie - 2024*)
 - [ ] **- Python pour le SIG**
 - [ ] **- L'éssentiel des LLM et de l'IA**
@@ -72,6 +74,6 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 
 ### 📫 Comment me contacter ?
 
-- **LinkedIn** : [Lionel Todome] (https://www.linkedin.com/in/lionel-todome)
+- **LinkedIn** : [Lionel Todome](https://www.linkedin.com/in/lionel-todome)
 
 Merci de visiter mon profil ! N’hésitez pas à explorer mes projets, à cloner des dépôts, et à collaborer pour transformer des idées en réalité. 🚀
