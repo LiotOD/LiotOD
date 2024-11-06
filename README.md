@@ -21,11 +21,11 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 
 ---
 ### Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev,  
-
+---
 - [x] **1- Cartographie** : *Données vectorielles, formats de données vectorielles, Grands principes en SIG, Sémiologie graphique, Conception de cartes, Edition, etc.*     
 - [x] **2- Analyse Spatiale** : *Sélections, filtres, géotraitements, AHP, modeleurs graphiques, Jointures, Topologie, Statistiques, Proximité, Transformation, etc.*    
 - [x] **3- Télédétection** : *Les données raster, géoréférencement, tuilage, le traitement des raster pour générer des dérivés: MNT, Pente, Altitude, Température, etc.*
----
+--- SQL ---
 - [x] **4- SQL Basique** : *Bases relationnelles, SGBD, Objets d'une BDD, syntaxe de base SQL, fonctions basiques, filtrage, création de'objets, modification d'objets, etc.* 
 - [x] **5- PostGIS Basique** : *Création de l'extension, connexion à logiciel SIG, import de shape, ajout d'un champ geom, types de données géospatiales, requêtes basiques postgis, etc.*     
 - [x] **6- SQL Intermédiaire** : *Opérations sur les objets (ajout, modification, suppression), vues, aggrégats, fusion d'objets, fonctions intermédiaires (date, maths, string), Jointures, Index attributaires,  etc.*   
