@@ -19,7 +19,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - **🎥 Youtube** : une chaine youtube où je partage ma passion pour la géomatique. [Chaîne Youtube](https://www.youtube.com/@geomaf)
 - **🌐 Site Internet** : [Ltodome](https://ltodome.com/)
 ---
-                    #### **Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev, GeoIA**
+                          #### Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev, GeoIA
 
 ---
 - [x] **1- Cartographie** : *Données vectorielles, formats de données vectorielles, Grands principes en SIG, Sémiologie graphique, Conception de cartes, Edition, etc.*     
