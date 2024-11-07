@@ -15,11 +15,11 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - **💻 SQL Journey** : une collection de requêtes SQL et de cours que j'ai suivi pour développer mes compétences en SQL.
 - **🗺 WebGISWebGIS** : des projets où j’explore différentes technologies de création d'applications web cartographique.
 - **📊 DataCrea** : des projets où je mets à disposition des données que j'ai produite seul ou en collaboration avec d'autres personnes.
-- **🌐 OpenstreetMap** : contribution au projet OSM --> (https://yosmhm.neis-one.org/?Geolio).
-- **🎥 Youtube** : une chaine youtube où je partage ma passion pour la géomatique. (https://www.youtube.com/@geomaf)
-- **🌐 Site Internet** : mon site internet (https://ltodome.com/)
+- **🌐 OpenstreetMap** : contribution au projet OSM --> [Profil OSM](https://yosmhm.neis-one.org/?Geolio).
+- **🎥 Youtube** : une chaine youtube où je partage ma passion pour la géomatique. [Chaîne Youtube](https://www.youtube.com/@geomaf)
+- **🌐 Site Internet** : [Ltodome](https://ltodome.com/)
 
-**Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev, GeoIA**
+#### **Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev, GeoIA**
 
 ---
 - [x] **1- Cartographie** : *Données vectorielles, formats de données vectorielles, Grands principes en SIG, Sémiologie graphique, Conception de cartes, Edition, etc.*     
