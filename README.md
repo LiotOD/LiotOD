@@ -18,7 +18,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - **🌐 OpenstreetMap** : contribution au projet OSM --> [Profil OSM](https://yosmhm.neis-one.org/?Geolio).
 - **🎥 Youtube** : une chaine youtube où je partage ma passion pour la géomatique. [Chaîne Youtube](https://www.youtube.com/@geomaf)
 - **🌐 Site Internet** : [Ltodome](https://ltodome.com/)
-
+---
 #### **Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev, GeoIA**
 
 ---
