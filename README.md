@@ -62,8 +62,9 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [ ] **31- WebGIS niveau avancé avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter une interface de connexion, Ajouter une animation temporelle, ajouter une streetview, cartographie de flux, ajouter des tuiles vectoriellles, ajouter des interactions avec les actions du client, affichage des nuage de points, intégrer les fonctionnalités d'itinéraire*
 - [ ] **- WebGIS Challenge Final** : *reproduire le portail du cadastre national du Bénin*
 ---
-- [ ] **32- Python les bases** : **Structures de syntaxes Python, boucles, fonctions basiques, tableaux, etc.*
-- [ ] **- Python pour le SIG : les bases** : 
+- [ ] **32- Python les bases** : **Structures de syntaxes Python, Variables et types de données, boucles, fonctions basiques, tableaux, etc.*
+- [ ] **- Python pour le SIG : les bases** : *intro à geopandas, shapely, * 
+- [ ] **32- Python les notions intermédiaires** : **Listes/tuples/dictionnaires, Manipulation de fichiers, Manipulation des données spatiales*
 - [ ] **- L'éssentiel des LLM et de l'IA**
 - [ ] **- GeoIA**
   
