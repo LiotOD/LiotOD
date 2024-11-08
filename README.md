@@ -55,14 +55,14 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [ ] **25- Administration Réseaux : l'essentiel pour un SIG** : *Apprendre l'ouverture de ports spécifiques pour les composants du SIG (BDD, Serveur SIG, Applicatifs), Vérifier l'ouverture des ports avec nmap et netstat, Génération de clés SSH, configuration des connexions sécurisées, Utilisation de ping, traceroute pour tester la connectivité, Configuration et analyse des logs réseau (syslog, journalctl), outils pour les logs des bases de données SIG, réaliser des tests de vulnérabilité sur les composants du SIG, etc.*
 ---
 - [x] **26- JS : Maîtrise des bases utiles pour le WebSIG** : *Structures de syntaxes JavaScript, boucles, fonctions, tableaux, Document Object Model, comprendre les format JSON et GEOJSON, récupérer les informations d'un JSON/Geojson*
-- [x] **27- WebGIS basique avec les librairies JS (Ol, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Créer une carte de base avec html, css et une librairie JS, Ajouter des données, styler les données, ajouter une popup, ajouter des fonctionnalités basiques (zoom, recherche, échelle, source), ajouter une couche wms/wmts/wfs*
-- [ ] **28- JS : Maîtrise des notions intermédiaire utiles pour le WebSIG** : *Apprendre la manipulation du DOM (Document Object Model), Apprendre les Promesses et async/await*
-- [ ] **29- WebGIS niveau intermédiaire avec les librairies JS (Ol, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter données raster et 3D, faire des cartes choroplètes, Ajouter les fonctionnalités avancées (filtre, géocodage, reverse geocodage, position GPS, adress IP), Créer une liste d'objets liés à une carte avec un affichage dynamique, ajouter une légende, ajouter une légende dynamique, ajouter un modèle 3D,  ajouter des données en temps réel, ajouter une animation, ajouter un cluster, ajouter une heatmap, créer des animations temporelles*
-- [ ] **30- JS : Maîtrise des notions avancées utiles pour le WebSIG** : *Gestion des appels API et récupération de données*
-- [ ] **- WebGIS niveau avancé avec les librairies JS (Ol, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter un module de connexion, *
-
-- [ ] **- WebGIS Open Source** (*en cours de maitrise approfondie - 2024*)
-- [ ] **- Python pour le SIG**
+- [x] **27- WebGIS basique avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Créer une carte de base avec html, css et une librairie JS, Ajouter des données, styler les données, ajouter une popup, ajouter des fonctionnalités basiques (zoom, recherche, échelle, source), ajouter une couche wms/wmts/wfs*
+- [ ] **28- JS : Maîtrise des notions intermédiaire utiles pour le WebSIG** : *Apprendre la manipulation du DOM (Document Object Model), Apprendre les Promesses et async/await, apprendre à gérer les évènements JS*
+- [ ] **29- WebGIS niveau intermédiaire avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter données raster et 3D, faire des cartes choroplètes, Ajouter les fonctionnalités avancées (filtre, géocodage, reverse geocodage, position GPS, adress IP), Créer une liste d'objets liés à une carte avec un affichage dynamique, ajouter une légende, ajouter une légende dynamique, ajouter un modèle 3D,  ajouter des données en temps réel, ajouter une animation, ajouter un cluster, ajouter une heatmap, ajouter des actions liés aux évènements (mouseover, click, dblclick, hover, *
+- [ ] **30- JS : Maîtrise des notions avancées utiles pour le WebSIG** : *Gestion des appels API et récupération de données,  contrôles d'interface personnalisés, Apprendre à utiliser un framework*
+- [ ] **- WebGIS niveau avancé avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter une interface de connexion, Ajouter une animation temporelle, ajouter une streetview, cartographie de flux, ajouter des tuiles vectoriellles, ajouter des interactions avec les actions du client, affichage des nuage de points, intégrer les fonctionnalités d'itinéraire*
+- [ ] **- WebGIS Challenge Final** : *reproduire le portail du cadastre national du Bénin*
+- [ ] **- Python les bases** : **Structures de syntaxes Python, boucles, fonctions basiques, tableaux, etc.*
+- [ ] **- Python pour le SIG : les bases** : 
 - [ ] **- L'éssentiel des LLM et de l'IA**
 - [ ] **- GeoIA**
   
