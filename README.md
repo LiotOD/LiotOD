@@ -59,9 +59,10 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [ ] **28- JS : Maîtrise des notions intermédiaire utiles pour le WebSIG** : *Apprendre la manipulation du DOM (Document Object Model), Apprendre les Promesses et async/await, apprendre à gérer les évènements JS*
 - [ ] **29- WebGIS niveau intermédiaire avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter données raster et 3D, faire des cartes choroplètes, Ajouter les fonctionnalités avancées (filtre, géocodage, reverse geocodage, position GPS, adress IP), Créer une liste d'objets liés à une carte avec un affichage dynamique, ajouter une légende, ajouter une légende dynamique, ajouter un modèle 3D,  ajouter des données en temps réel, ajouter une animation, ajouter un cluster, ajouter une heatmap, ajouter des actions liés aux évènements (mouseover, click, dblclick, hover, *
 - [ ] **30- JS : Maîtrise des notions avancées utiles pour le WebSIG** : *Gestion des appels API et récupération de données,  contrôles d'interface personnalisés, Apprendre à utiliser un framework*
-- [ ] **- WebGIS niveau avancé avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter une interface de connexion, Ajouter une animation temporelle, ajouter une streetview, cartographie de flux, ajouter des tuiles vectoriellles, ajouter des interactions avec les actions du client, affichage des nuage de points, intégrer les fonctionnalités d'itinéraire*
+- [ ] **31- WebGIS niveau avancé avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter une interface de connexion, Ajouter une animation temporelle, ajouter une streetview, cartographie de flux, ajouter des tuiles vectoriellles, ajouter des interactions avec les actions du client, affichage des nuage de points, intégrer les fonctionnalités d'itinéraire*
 - [ ] **- WebGIS Challenge Final** : *reproduire le portail du cadastre national du Bénin*
-- [ ] **- Python les bases** : **Structures de syntaxes Python, boucles, fonctions basiques, tableaux, etc.*
+---
+- [ ] **32- Python les bases** : **Structures de syntaxes Python, boucles, fonctions basiques, tableaux, etc.*
 - [ ] **- Python pour le SIG : les bases** : 
 - [ ] **- L'éssentiel des LLM et de l'IA**
 - [ ] **- GeoIA**
