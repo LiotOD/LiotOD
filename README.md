@@ -78,13 +78,14 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
   - **40-** --> *[CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)*
   - **41-** --> *[CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)*
     
-      - Connaissances à maîtriser niveau 1 : *Différence entre l'IA, le ML et le Deep Learning, les types d'apprentissage (supervisé, non supervisé, par renforcement), traitement du langage naturel (NLP) tokenization, stemming, lemmatisation, fonctionnenment des réseaux de neurones*
-      - Connaissances à maîtriser niveau 2 : *Créer un réseau de neurones, différents modèles de langage (LLM), générer du texte avec un modèle, classifier des objets, fine-tuning*
-      - Connaissances à maîtriser niveau 3 : *comprendre l'architecture Transformer, créer des transformer, créer un chatbot personnel*
+      - Niveau 1 : *Apprendre à utiliser Jupyter Notebooks, Google Colab,  Différence entre l'IA, le ML et le Deep Learning, les types d'apprentissage (supervisé, non supervisé, par renforcement), traitement du langage naturel (NLP) tokenization, stemming, lemmatisation, fonctionnenment des réseaux de neurones*
+      - Niveau 2 : *Apprendre à utiliser Hugging Face Transformers, Créer un réseau de neurones, différents modèles de langage (LLM), générer du texte avec un modèle, classifier des objets, fine-tuning*
+      - Niveau 3 : *comprendre l'architecture Transformer, créer des transformer, créer un chatbot personnel*
 ---
 - [ ] **- GeoIA** : *Utilisation de l'IA dans la géomatique:*
-  
 
+  
+---
 
 
 
