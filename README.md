@@ -57,17 +57,23 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **26- JS : Maîtrise des bases utiles pour le WebSIG** : *Structures de syntaxes JavaScript, boucles, fonctions, tableaux, Document Object Model, comprendre les format JSON et GEOJSON, récupérer les informations d'un JSON/Geojson*
 - [x] **27- WebGIS basique avec les librairies JS (OL, ESRI API JS, etc.)** : *Créer une carte de base avec html, css et une librairie JS, Ajouter des données, styler les données, ajouter une popup, ajouter des fonctionnalités basiques (zoom, recherche, échelle, source), ajouter une couche wms/wmts/wfs*
 - [ ] **28- JS : Maîtrise des notions intermédiaire utiles pour le WebSIG** : *Apprendre la manipulation du DOM (Document Object Model), Apprendre les Promesses et async/await, apprendre à gérer les évènements JS*
-- [ ] **29- WebGIS niveau intermédiaire avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter données raster et 3D, faire des cartes choroplètes, Ajouter les fonctionnalités avancées (filtre, géocodage, reverse geocodage, position GPS, adress IP), Créer une liste d'objets liés à une carte avec un affichage dynamique, ajouter une légende, ajouter une légende dynamique, ajouter un modèle 3D,  ajouter des données en temps réel, ajouter une animation, ajouter un cluster, ajouter une heatmap, ajouter des actions liés aux évènements (mouseover, click, dblclick, hover, *
+- [ ] **29- WebGIS niveau intermédiaire avec les librairies JS (OL, ESRI API JS, etc.)** : *Ajouter données raster et 3D, faire des cartes choroplètes, Ajouter les fonctionnalités avancées (filtre, géocodage, reverse geocodage, position GPS, adress IP), Créer une liste d'objets liés à une carte avec un affichage dynamique, ajouter une légende, ajouter une légende dynamique, ajouter un modèle 3D,  ajouter des données en temps réel, ajouter une animation, ajouter un cluster, ajouter une heatmap, ajouter des actions liés aux évènements (mouseover, click, dblclick, hover, *
 - [ ] **30- JS : Maîtrise des notions avancées utiles pour le WebSIG** : *Gestion des appels API et récupération de données,  contrôles d'interface personnalisés, Apprendre à utiliser un framework*
-- [ ] **31- WebGIS niveau avancé avec les librairies JS (OL, Leaflet, Mapbox, Maptiler, ESRI API JS)** : *Ajouter une interface de connexion, Ajouter une animation temporelle, ajouter une streetview, cartographie de flux, ajouter des tuiles vectoriellles, ajouter des interactions avec les actions du client, affichage des nuage de points, intégrer les fonctionnalités d'itinéraire*
-- [ ] **- WebGIS Challenge Final** : *reproduire le portail du cadastre national du Bénin*
+- [ ] **31- WebGIS niveau avancé avec les librairies JS (OL, ESRI API JS, etc.)** : *Ajouter une interface de connexion, Ajouter une animation temporelle, ajouter une streetview, cartographie de flux, ajouter des tuiles vectoriellles, ajouter des interactions avec les actions du client, affichage des nuage de points, intégrer les fonctionnalités d'itinéraire*
+- [ ] **32- WebGIS Challenge Final** : *reproduire le portail du cadastre national du Bénin*
 ---
 - [ ] **32- Python les bases** : **Structures de syntaxes Python, Variables et types de données, boucles, fonctions basiques, tableaux, listes, etc.*
-- [ ] **33- Python pour le SIG : les bases** : *intro à geopandas, shapely, * 
-- [ ] **32- Python les notions intermédiaires** : **Listes/tuples/dictionnaires, Manipulation de fichiers, Manipulation des données spatiales*
-- [ ] **- L'éssentiel des LLM et de l'IA**
+- [ ] **33- Python pour le SIG : les bases avec Arcpy** : *intro aux bases de arcpy, installation des extensions, charger les données, lister les données, utiliser des outils de géotraitement basiques avec Arcpy (buffer, découpage, centroides, fusions, aggrégats), faire une mise en page, etc.* 
+- [ ] **34- Python les notions intermédiaires** : *Listes/tuples/dictionnaires, Manipulation de fichiers, utilisations de modules populaires pour analyser les données, Poo*
+- [ ] **35- Python pour le SIG : niveau intermédiaire avec Arcpy** : *Jointures, Analyses spatiales, calcul de distance, réalisation d'un géotraitement avancé, réalisation d'une suite de géotraitement, générer des statistiques sur les donnnées, etc.*
+---
+- [ ] **- L'éssentiel des LLM et de l'IA** : *Suivre les deux cours suivants de Havard: [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) et [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)*
 - [ ] **- GeoIA**
   
+
+
+
+
 
 ### 🛠️ Compétences techniques
 
