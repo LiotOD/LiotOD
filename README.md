@@ -68,16 +68,19 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [ ] **35- Python pour le SIG : niveau intermédiaire avec Arcpy** : *Jointures, Analyses spatiales, calcul de distance, réalisation d'un géotraitement avancé, réalisation d'une suite de géotraitement, générer des statistiques sur les donnnées, etc.*
 ---
 - [ ] **- Introduction à la Cybersécurité** : *Suivre les trois cours suivants en réalisant les projets associés:*
-  - *[IBM: Beginners Guide to Cybersecurity](https://www.edx.org/learn/cybersecurity/ibm-beginners-guide-to-cybersecurity)*
-  - *[IBM: Cybersecurity Basics](https://www.edx.org/learn/cybersecurity/ibm-cybersecurity-basics)*
-  - *[CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)*
+  - **36-** --> *[IBM: Beginners Guide to Cybersecurity](https://www.edx.org/learn/cybersecurity/ibm-beginners-guide-to-cybersecurity)*
+  - **37-** --> *[IBM: Cybersecurity Basics](https://www.edx.org/learn/cybersecurity/ibm-cybersecurity-basics)*
+  - **38-** --> *[CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)*
+
 ---
-- [ ] **- IA avec Python : l'éssentiel** : *Suivre les trois cours suivants:
-  - *[IBM: AI for Everyone: Master the Basics](https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics)
-  - *[CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)*
-  - *[CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)*
-      - Connaissances à maîtriser niveau 1 : *différence entre l'IA, le ML et le Deep Learning, les types d'apprentissage (supervisé, non supervisé, par renforcement), traitement du langage naturel (NLP), fonctionnenment des réseaux de neurones*
-      - 
+- [ ] **- IA avec Python : l'éssentiel** : *Suivre les trois cours suivants:    
+  - **39-** --> *[IBM: AI for Everyone: Master the Basics](https://www.edx.org/learn/artificial-intelligence/ibm-ai-for-everyone-master-the-basics)
+  - **40-** --> *[CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)*
+  - **41-** --> *[CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)*
+    
+      - Connaissances à maîtriser niveau 1 : *Différence entre l'IA, le ML et le Deep Learning, les types d'apprentissage (supervisé, non supervisé, par renforcement), traitement du langage naturel (NLP) tokenization, stemming, lemmatisation, fonctionnenment des réseaux de neurones*
+      - Connaissances à maîtriser niveau 2 : *Créer un réseau de neurones, différents modèles de langage (LLM), générer du texte avec un modèle, classifier des objets, fine-tuning*
+      - Connaissances à maîtriser niveau 3 : *comprendre l'architecture Transformer, créer des transformer, créer un chatbot personnel*
 ---
 - [ ] **- GeoIA** : *Utilisation de l'IA dans la géomatique:*
   
