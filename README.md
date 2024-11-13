@@ -67,7 +67,15 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [ ] **34- Python les notions intermédiaires** : *Listes/tuples/dictionnaires, Manipulation de fichiers, utilisations de modules populaires pour analyser les données, Poo*
 - [ ] **35- Python pour le SIG : niveau intermédiaire avec Arcpy** : *Jointures, Analyses spatiales, calcul de distance, réalisation d'un géotraitement avancé, réalisation d'une suite de géotraitement, générer des statistiques sur les donnnées, etc.*
 ---
-- [ ] **- L'éssentiel des LLM et de l'IA** : *Suivre les deux cours suivants de Havard: [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science) et [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)*
+ [ ] **- Introduction à la Cybersécurité** : *Suivre les trois cours suivants en réalisant les projets :*
+  - *[IBM: Beginners Guide to Cybersecurity](https://www.edx.org/learn/cybersecurity/ibm-beginners-guide-to-cybersecurity)*
+  - *[IBM: Cybersecurity Basics](https://www.edx.org/learn/cybersecurity/ibm-cybersecurity-basics)*
+  - *[CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)*
+---
+- [ ] **- IA avec Python : l'éssentiel** : *Suivre les deux cours suivants de Havard:
+  - [CS50's Introduction to Computer Science](https://www.edx.org/learn/computer-science/harvard-university-cs50-s-introduction-to-computer-science)
+  - [CS50's Introduction to Artificial Intelligence with Python](https://www.edx.org/learn/artificial-intelligence/harvard-university-cs50-s-introduction-to-artificial-intelligence-with-python)
+  - *
 - [ ] **- GeoIA**
   
 
