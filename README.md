@@ -1,6 +1,6 @@
 # Bonjour, c’est Lionel 👋
 
-Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets personnels et professionnels pour développer mes compétences en  **SIG**, **Création de Données**, **SQL**, **Webmapping**, **Python**, **Data Science**, **IA**.
+Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets personnels et professionnels pour développer mes compétences en  ***SIG**, **Création de Données**, **SQL**, **Webmapping**, **Python**, **Data Science**, **IA***.
 
 ---
 
@@ -22,27 +22,31 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
                               #### Ma roadmap SIG : SIG, BDD, Réseaux, GIS Dev, GeoIA
 
 ---
-### Organisation de mon apprentissage 
+### 🚦 Organisation de mon apprentissage 
 
-**1- Révisions régulières** --> Revenir 3h par semaine sur 1-2 notions apprises précédemment de façon à garder la maitrise (ex : faire une requête avancée en SQL, écrire une fonction en webGIS avec Js, etc.) 
+**I- Révisions régulières** --> Revenir 3h par semaine sur 1-2 notions apprises précédemment de façon à garder la maitrise (ex : faire une requête avancée en SQL, écrire une fonction en webGIS avec Js, etc.) 
 
-**2- Approche pratique avec des projets** --> Pour chaque nouvel apprentissage, mettre en pratique les connaissances via des projets sur github.
+**II- Approche pratique avec des projets** --> Pour chaque nouvel apprentissage, mettre en pratique les connaissances via des projets sur github.
 
-**3- Evaluations régulières**--> Réaliser des challenges pour évaluer mes compétences par exemple sur [hackerrank](https://www.hackerrank.com/) et [LeetCode](https://leetcode.com/)
+**III- Evaluations régulières**--> Réaliser des challenges pour évaluer mes compétences par exemple sur [hackerrank](https://www.hackerrank.com/) et [LeetCode](https://leetcode.com/)
 
-**4- Objectifs réalistes**--> Eviter de vouloir tout apprendre en même temps, Faire un focus mensuel sur un nouvel apprentissage par mois dans la liste ci-dessous.
+**IV- Objectifs réalistes**--> Eviter de vouloir tout apprendre en même temps, Faire un focus mensuel sur un nouvel apprentissage par mois dans la liste ci-dessous.
 
-**5- Partager régulièrement son apprentissage** --> Via des tutos, des échanges ou des formations gratuites, partager les connaissances avec d'autres personnes et apprendre d'eux.
+**V- Partager régulièrement son apprentissage** --> Via des tutos, des échanges ou des formations gratuites, partager les connaissances avec d'autres personnes et apprendre d'eux.
             
 ---
-- [x] **1- Cartographie** : *Données vectorielles, formats de données vectorielles, Grands principes en SIG, Sémiologie graphique, Conception de cartes, Edition, etc.*     
-- [x] **2- Analyse Spatiale** : *Sélections, filtres, géotraitements, AHP, modeleurs graphiques, Jointures, Topologie, Statistiques spatiales, Proximité, Transformation, géocodage, reverse geocode, etc.*    
+- [x] **1- Cartographie** : *Données vectorielles, formats de données vectorielles, Grands principes en SIG, Sémiologie graphique, Conception de cartes, Edition, etc.*
+       
+- [x] **2- Analyse Spatiale** : *Sélections, filtres, géotraitements, AHP, modeleurs graphiques, Jointures, Topologie, Statistiques spatiales, Proximité, Transformation, géocodage, reverse geocode, etc.*
+       
 - [x] **3- Télédétection** : *Les données raster, géoréférencement, tuilage, le traitement des raster pour générer des dérivés: MNT, Pente, Altitude, Température, etc.*
 ---
 - [x] **4- SQL Basique** : *Bases relationnelles, SGBD, Objets d'une BDD, syntaxe de base SQL, fonctions basiques, filtrage, création de'objets, modification d'objets, etc.* 
 - [x] **5- PostGIS Basique** : *Création de l'extension, connexion à logiciel SIG, import de shape, ajout d'un champ geom, types de données géospatiales, requêtes basiques postgis, etc.*     
-- [x] **6- SQL Intermédiaire** : *Opérations sur les objets (ajout, modification, suppression), vues, aggrégats, fusion d'objets, fonctions intermédiaires (date, maths, string), Jointures, Index attributaires,  etc.*   
-- [x] **7- PostGIS Intermédiaire** : *Sélection par attributs et par localisation, jointures spatiales, index spatiaux, géotraitements, opérations sur les SCR, analyse raster (ajout, fusion, découpage, extraction, création), calculs raster (ndvi, ndwi, savi), etc.*   
+- [x] **6- SQL Intermédiaire** : *Opérations sur les objets (ajout, modification, suppression), vues, aggrégats, fusion d'objets, fonctions intermédiaires (date, maths, string), Jointures, Index attributaires,  etc.*
+      
+- [x] **7- PostGIS Intermédiaire** : *Sélection par attributs et par localisation, jointures spatiales, index spatiaux, géotraitements, opérations sur les SCR, analyse raster (ajout, fusion, découpage, extraction, création), calculs raster (ndvi, ndwi, savi), etc.*
+      
 - [ ] **8- SQL Avancé** : *Sous-requêtes, Triggers, CTE, Window, Requêtes imbriquées, Transactions, Gestion des valeurs nulles, Opérations conditionnelles, CAST, Opérations massives, création de procédures stockées, etc.* (learning - 2024)   
 - [ ] **9- PostGIS Avancé** : *Fonctions postgis avancées de Postgis (tiangulation, mosaïquage, tuilage, simplification, etc), interpolation, corriger des géométries, statistiques zonales raster, extraction de valeurs de pixels, 3D, etc.* (learning - 2024)
 ---
@@ -65,6 +69,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - [x] **23- Administration d'un SIG d'entreprise** : *Apprendre la pédagogie envers les utilisateurs, Apprendre à installer les principaux outils SIG sur un Serveur Linux, Administrer les BDD, Mettre en place une politique de sauvegarde et restauration, Gestion des utilisateurs, Débuggage des servers, Définir des Indicateurs de performance pertinents et les suivre, Mise en place d'un monitoring des composants du SIG, Mise en place d'un plan de sauvegarde du Système, Gestion des incidents, Mise à jour des composants, Test de cybersécurité du Système, Créer un CDC sur les bases en choisissant les infos pertinentes à tracer, Former les utilisateurs, Automatiser les tâches récurrentes, Documenter les procédures et flux de travail, Mettre en place une politique de métadonnées, Assurer la qualité des données, Ouverture de flux, Travail d'équipe avec DSI, Créer un pool applicatif et gérer les applications, etc.*
 ---
 - [ ] **24- Administration Réseaux : les bases** : *Comprendre le fonctionnement d'un réseau, terminologie en réseaux, Principes de fonctionnement d’un pare-feu, règles de filtrage, concepts d’ouverture et fermeture de ports, Ouverture de flux entre deux machines, ouverture de flux entre plusieurs machines, etc.*
+      
 - [ ] **25- Administration Réseaux : l'essentiel pour un SIG** : *Apprendre l'ouverture de ports spécifiques pour les composants du SIG (BDD, Serveur SIG, Applicatifs), Vérifier l'ouverture des ports avec nmap et netstat, Génération de clés SSH, configuration des connexions sécurisées, Utilisation de ping, traceroute pour tester la connectivité, Configuration et analyse des logs réseau (syslog, journalctl), outils pour les logs des bases de données SIG, réaliser des tests de vulnérabilité sur les composants du SIG, etc.*
 ---
 - [x] **26- JS : Maîtrise des bases utiles pour le WebSIG** : *Structures de syntaxes JavaScript, boucles, fonctions, tableaux, Document Object Model, comprendre les format JSON et GEOJSON, récupérer les informations d'un JSON/Geojson*
@@ -101,8 +106,6 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
   - **44- Niveau 3** --> *Utilisation d'un modèle d'IA pour créer un script de détection d'objets pour le SIG (ex: batiment en construction, types de dégradations sur une route)*
   - **45- Niveau 4** --> *Créer un pipeline de machine learning qui éffectue une suite d'opérations d'analyses géospatiales en s'appuyant sur les modèles d'IA. Par exemple : récupérer des images satellites, identifier les maisons en construction, les segmenter, mettre un score de précision, créer une carte avec les objets identifiés + score et coordonnées en etiquette, etc.*  
 ---
-
-
 
 
 ### 🛠️ Compétences techniques
