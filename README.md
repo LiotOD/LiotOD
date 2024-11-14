@@ -113,7 +113,12 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
   - **37-** --> *[IBM: Cybersecurity Basics](https://www.edx.org/learn/cybersecurity/ibm-cybersecurity-basics)*
     
   - **38-** --> *[CS50's Introduction to Cybersecurity](https://www.edx.org/learn/cybersecurity/harvard-university-cs50-s-introduction-to-cybersecurity)*
-
+    
+      - **Niveau 1 :** *Comprendre les concepts de base (menaces, vulnérabilités, attaques), Comprendre les concepts de confidentialité, intégrité et disponibilité, Apprendre à gérer et sécuriser les données sensibles (cryptage des données en transit et au repos), compréhension des mécanismes d’authentification*
+        
+      - **Niveau 2 :** *Utiliser Nmap pour analyser les ports et évaluer les failles potentielles, apprendre les techniques de protection contre l'injection SQL, Configurer la journalisation et la surveillance pour détecter les activités suspectes*
+        
+      - **Niveau 3 :** * Configurer et tester un pare-feu d'application Web, Configurer HTTPS pour un serveur SIG et gérer les certificats numériques, réaliser des tests pratiques dans les laboratoires virtuels de cybersécurité ex : [tryhackme](https://tryhackme.com)*
 ---
 - [ ] **- IA avec Python : l'éssentiel** : *Suivre les trois cours suivants:
         
@@ -139,7 +144,17 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
     
   - **45- Niveau 4** --> *Créer un pipeline de machine learning qui éffectue une suite d'opérations d'analyses géospatiales en s'appuyant sur les modèles d'IA. Par exemple : récupérer des images satellites, identifier les maisons en construction, les segmenter, mettre un score de précision, créer une carte avec les objets identifiés + score et coordonnées en etiquette, etc.*  
 ---
-
+- [ ] **- Cloud et SIG** : *Utilisation de l'IA dans la géomatique:*
+      
+  - **46- Niveau 1** --> *Notions de bases sur le cloud computing, modèles de services, plateformes cloud, type de stockage des données sur le cloud, déployer une bdd spatiale sur le cloud, charger des données SIG dans une bdd sur le cloud*
+    
+  - **47- Niveau 2** --> *Installer un serveur SIG sur le cloud, déployer une de mes applications webgis sur le cloud, Configurer une API REST pour accéder aux données géospatiales stockées dans le Cloud*
+    
+  - **48- Niveau 3** --> *Maîtriser l’utilisation de conteneurs (Docker), Conteneuriser une application SIG (ex : GeoServer) et la déployer sur le cloud*
+    
+  - **49- Niveau 4** --> *Développer un script qui analyse des données géospatiales big data, *  
+---
+- [x **50- Veille continue dans la géomatique** :
 
 ### 🛠️ Compétences techniques
 
