@@ -80,10 +80,11 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
     
       - Niveau 1 : *Apprendre à utiliser Jupyter Notebooks, Google Colab,  Différence entre l'IA, le ML et le Deep Learning, les types d'apprentissage (supervisé, non supervisé, par renforcement), traitement du langage naturel (NLP) tokenization, stemming, lemmatisation, fonctionnenment des réseaux de neurones*
       - Niveau 2 : *Apprendre à utiliser Hugging Face Transformers, Créer un réseau de neurones, différents modèles de langage (LLM), générer du texte avec un modèle, classifier des objets, fine-tuning*
-      - Niveau 3 : *comprendre l'architecture Transformer, créer des transformer, créer un chatbot personnel*
+      - Niveau 3 : *créer un script de détection d'un objet, comprendre l'architecture Transformer, créer des transformer, créer un chatbot personnel*
 ---
 - [ ] **- GeoIA** : *Utilisation de l'IA dans la géomatique:*
-
+  - **42- Niveau 1** --> *Notions de bases sur le geoIA, différences avec l'IA simple, quelles ressources utiliser, monter un environnement de dev adéquat pour le GeoIA*
+  - **43- Niveau 2** --> *Charger les données vecteur et raster dans l'env, effectuer des analyses spatiales basiques dans l'env, comprendre les principes de fonctionnement des modèles d'IA pour la Géo (GPT, SAM, LLaMA, BERT), Catégoriser les modèles pour le traitement de données géospatiales au format géographique (shp, geojson, gpkg) ou texte/métadonnées 
   
 ---
 
