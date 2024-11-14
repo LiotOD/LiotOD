@@ -152,7 +152,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
     
   - **48- Niveau 3** --> *Maîtriser l’utilisation de conteneurs (Docker), Conteneuriser une application SIG (ex : GeoServer) et la déployer sur le cloud*
     
-  - **49- Niveau 4** --> *Développer un script qui analyse des données géospatiales big data, *  
+  - **49- Niveau 4** --> *Développer un script qui analyse des données géospatiales big data, et l'es données issus de capteurs pour IOT*  
 ---
 - [x **50- Veille continue dans la géomatique** :
 
