@@ -163,7 +163,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 
 ---
 
-### 📫 Comment me contacter ?
+### 📫 Me contacter
 
 - **LinkedIn** : [Lionel Todome](https://www.linkedin.com/in/lionel-todome)
 
