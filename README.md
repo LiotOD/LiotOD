@@ -154,7 +154,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
     
   - **49- Niveau 4** --> *Développer un script qui analyse des données géospatiales big data, et l'es données issus de capteurs pour IOT*  
 ---
-- [x **50- Veille continue dans la géomatique** :
+- [x] **50- Veille continue dans la géomatique** :
 
 ### 🛠️ Compétences techniques
 
