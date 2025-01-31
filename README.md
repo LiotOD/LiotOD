@@ -15,7 +15,7 @@ Bienvenue sur mon GitHub ! Ici, vous trouverez une collection de mes projets per
 - **💻 SQL Journey** : une collection de requêtes SQL et de cours que j'ai suivi pour développer mes compétences en SQL.
 - **🗺 WebGISWebGIS** : des projets où j’explore différentes technologies de création d'applications web cartographique.
 - **📊 DataCrea** : des projets où je mets à disposition des données que j'ai produite seul ou en collaboration avec d'autres personnes.
-- **🌐 OpenstreetMap** : contribution au projet OSM --> [Profil OSM](https://yosmhm.neis-one.org/?Geolio).
+- **🌐 OpenstreetMap** : contribution au projet OSM --> [Profil OSM](https://www.openstreetmap.org/user/Geolio).
 - **🎥 Youtube** : une chaine youtube où je partage ma passion pour la géomatique. [Chaîne Youtube](https://www.youtube.com/@geomaf)
 - **🌐 Site Internet** : [Ltodome](https://ltodome.com/)
 ---
